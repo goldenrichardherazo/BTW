@@ -1,1 +1,11 @@
-s
+{
+  "name": "Experimental Translate",
+  "description": "Traduce mensajes usando Google o DeepL",
+  "authors": [
+    {
+      "name": "Richard",
+      "id": "1113957692428521563" 
+    }
+  ],
+  "main": "index.js"
+}
